@@ -356,7 +356,7 @@ ul {
   box-shadow: 0 1px 15px rgba(0,0,0,0.2);
 }
 .logo {
-  padding: 0;
+  padding-left: 0px;
   margin: 0;
 }
 @media(max-width:768px) { 
@@ -1297,6 +1297,7 @@ a.contact-btn {
 .copyright .footer-logo {
   float: left;
   padding-right: 15px;
+  padding-left: 10px;
 }
 .copyright p {
   color: #666;
